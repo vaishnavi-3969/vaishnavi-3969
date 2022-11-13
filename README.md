@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Application Development using Android Studio in Java, Java Full Stack, Web Development using HTML, CSS and Javascript, Data Science in R and Python
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS and Javascript, Data Science in R and Python
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Web3 ecosystem
 - 📫 How to reach me:
