@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Web3 ecosystem and Java Full Stack
 - 📫 How to reach me:
-      LinkedIn: https://www.linkedin.com/in/vaishnavi-kale-111543204/
-      Twitter: https://twitter.com/vaishnavi_k3969
+     -  LinkedIn: https://www.linkedin.com/in/vaishnavi-kale-111543204/
+     -  Twitter: https://twitter.com/vaishnavi_k3969
     
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
