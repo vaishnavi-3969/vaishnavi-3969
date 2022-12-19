@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
      -  LinkedIn: https://www.linkedin.com/in/vaishnavi-kale-111543204/
      -  Twitter: https://twitter.com/vaishnavi_k3969
+     -  Peerlist: https://peerlist.io/vaishnavi
     
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
