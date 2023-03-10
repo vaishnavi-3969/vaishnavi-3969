@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <!--
 **vaishnavi-3969/vaishnavi-3969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +16,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on  -->
 <!-- ------------------------------------------------------------------------------------------------ -->
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vaishnavi](https://vaishnavi-3969.github.io/portfolio)!
 
 ### About Me 🚀
 - 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web3 ecosystem and Java Full Stack
 - 📫 How to reach me:
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vaishnavi](https://vaishnavi-3969.github.io/portfolio)!
+
 <br>
 <a href="https://www.linkedin.com/in/vaishnavi-kale-111543204/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 
 <br/>
      -  Peerlist: https://peerlist.io/vaishnavi
-    
+     
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
 
