@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/vaishnavi_k3969">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
 </a>
-<a href="mailto:mail.vaishnavi.kale3011@gmail.com">
+<a href="mailto:vaishnavi.kale3011@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
 
