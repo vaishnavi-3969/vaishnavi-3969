@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 ## 📈 Stats
 <p>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-3969&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-3969&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></br>
 </p>
  
