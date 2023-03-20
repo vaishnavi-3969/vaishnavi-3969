@@ -44,10 +44,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
 
-## 📈 Stats
-<p>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-3969&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&theme=tokyonight" />
-  </br>
-</p>
+## 📊 Stats
+ <p align="center">
+ <a href="https://github.com/Pasan-Pahasara/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+ </p>
+ <br/>
  
+ ## 🔥 Streak Stats
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/Pasan-Pahasara/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-3969&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    </a>
+  </p>
+</p>
+
+## 🚀 Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=html,css,git,mysql,java,js,py" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=figma,github,androidstudio,idea,vscode,eclipse" />
+  </a>
+</p>
+</br>
+
