@@ -48,7 +48,7 @@ Here are some ideas to get you started:
  </p>
  <br/>
  
-## 🔥 Streak Stats
+<p><h1><img src="https://media.giphy.com/media/xUPGcGO8JJLMfEhYis/giphy.gif" width="30px" height="30px"> Streak Stats</h1></p>
 <p align="center">
   <p align="center">
     <a href="https://github.com/vaishnavi-3969/github-readme-streak-stats">
