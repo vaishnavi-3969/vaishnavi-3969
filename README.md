@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on  -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Vaishnavi](https://vaishnavi-3969.github.io/portfolio)!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
 
 ## QOTD
 <p align='center'>
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
- <br>
- <a href = "https://peerlist.io/vaishnavi" target="blank"><img src =""/></a>
+<!--  <br> -->
+<!--  <a href = "https://peerlist.io/vaishnavi">PeerList</a> -->
  </p>
 <br>
  
