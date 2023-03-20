@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web3 ecosystem and Java Full Stack
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">📫 Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
@@ -38,7 +38,8 @@ Here are some ideas to get you started:
      -  Peerlist: https://peerlist.io/vaishnavi
 <br>
 
-## 📊 Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats
+<p align="center">
  <p align="center">
  <a href="https://github.com/Pasan-Pahasara/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
  </p>
