@@ -1,27 +1,11 @@
+## <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
 
-<!--
-**vaishnavi-3969/vaishnavi-3969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Application Development using Android Studio in Java, Java Full Stack, Web Development using HTML, CSS and Javascript, Data Science in R and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- - 🔭 I’m currently working on  -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
-
-<p align='center'>
-<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60px" height="60px">
+<p align="center">
+<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
 <br>
  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
  </p>
+
 
 ### About Me 🚀
 - 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
@@ -80,7 +64,8 @@ Here are some ideas to get you started:
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/vaishnavi-3969/vaishnavi-3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
-
+<h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
