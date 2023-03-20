@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on  -->
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vaishnavi](https://vaishnavi-3969.github.io/portfolio)!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Vaishnavi](https://vaishnavi-3969.github.io/portfolio)!
 <!--  -->
 ### About Me 🚀
 - 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
-- 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS and Javascript, Data Science in R and Python
+- 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
-- 🤔 I’m looking for help with Web3 ecosystem and Java Full Stack
+- 🤔 I’m looking for help to get started with web3 fundamentals
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
 
@@ -57,13 +58,13 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,git,mysql,java,js,py" />
+   <img src="https://skillicons.dev/icons?i=html,css,jquery,git,mysql,mongodb,firebase,java,js,r,py,tensorflow,figma,github"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,github,androidstudio,idea,vscode,eclipse" />
+   <img src="https://skillicons.dev/icons?i=gitlab,androidstudio,idea,vscode,visualstudio,eclipse,idea,jenkins,docker,atom,azure,codepen"/>
   </a>
 </p>
-</br>
+<br>
