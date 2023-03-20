@@ -8,6 +8,7 @@
 
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
+
 - 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
 - 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
@@ -15,16 +16,14 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
 
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM4ZWEwYjFhYTAzOWVjMmY5MzkwMmI2M2Y4MmQ2MDIxNzNiYjAxZSZjdD1z/XEInMfcVD0uNvhdggX/giphy.gif" width="60px" height="40px"> Connect with me</h1>
+<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
+<!--Connect with me -->
 <p align="center">
-<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
-<a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
-<!--  <br> -->
-<!--  <a href = "https://peerlist.io/vaishnavi">PeerList</a> -->
- </p>
-<br>
+<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
+<a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
+<a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px" height="100px"/></a>
+<a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
+ <br>
  
 <p><h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</h1></p>
 <p align="center">
