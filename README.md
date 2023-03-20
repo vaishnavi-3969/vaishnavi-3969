@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href = "vaishnavi.kale3011@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+<a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
  <br>
 - Peerlist: https://peerlist.io/vaishnavi
