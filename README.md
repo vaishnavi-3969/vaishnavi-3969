@@ -23,26 +23,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS and Javascript, Data Science in R and Python
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
 - 🤔 I’m looking for help with Web3 ecosystem and Java Full Stack
-- 📫 How to reach me:
-
-
-<br>
-<a href="https://www.linkedin.com/in/vaishnavi-kale-111543204/">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
-</a>
-<a href="https://twitter.com/vaishnavi_k3969">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
-</a>
-<a href="mailto:vaishnavi.kale3011@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
-</a>
-
-
-<br/>
-     -  Peerlist: https://peerlist.io/vaishnavi
-     
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me:
+<p align="center">
+<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "pasanpahasara7788@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+<a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+</p> 
+ 
+
+<br>
+     -  Peerlist: https://peerlist.io/vaishnavi
+<br>
 
 ## 📊 Stats
  <p align="center">
