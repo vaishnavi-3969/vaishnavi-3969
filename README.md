@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on  -->
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Vaishnavi](https://vaishnavi-3969.github.io/portfolio)!
-<!--  -->
+
+## QOTD
+<p align='center'>
+ <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
+ </p>
+
 ### About Me 🚀
 - 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
 - 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
  <br>
-- Peerlist: https://peerlist.io/vaishnavi
+ <a href = "https://peerlist.io/vaishnavi" target="blank"><img src =""/></a>
  </p>
 <br>
  
