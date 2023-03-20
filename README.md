@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on  -->
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
 
-## QOTD
 <p align='center'>
+<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60px" height="60px">
+<br>
  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
  </p>
 
