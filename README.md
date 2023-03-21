@@ -1,4 +1,13 @@
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi.id&left_color=green&right_color=red) -->
+<!-- [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&theme=tokyonight) -->
+<!-- * [My New Profile Photo](url) -Date -->
+
 ## <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="vaishnavi-3969" /></a> </p>
 
 <p align="center">
 <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
