@@ -6,7 +6,6 @@
  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
  </p>
 
-
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
 
 - 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
