@@ -1,5 +1,4 @@
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi.id&left_color=green&right_color=red) -->
-<!-- [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969) -->
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&theme=tokyonight) -->
 <!-- * [My New Profile Photo](url) -Date -->
@@ -7,7 +6,7 @@
 ## <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
 
 
-<p align="left"> 
+<p align='left'>
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="vaishnavi-3969" />
 </p>
 
@@ -32,7 +31,6 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
-<a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px" height="100px"/></a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
 <!--  <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavi_k3969" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/vaishnavi-kale-111543204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vaishnavi-kale-111543204" height="30" width="40" /></a> -->
@@ -40,12 +38,16 @@
 <a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnaviakale" height="50" width="60" /></a>
+ <p align="left"> <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavi_k3969?logo=twitter&style=for-the-badge" alt="vaishnavi_k3969" /></a> </p>
  </p>
  
 <p><h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</h1></p>
 <p align="center">
  <p align="center">
- <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+ <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> 
+  <a href = "https://peerlist.io/vaishnavi" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
+  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  
  <br/>
  
 <p><h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="30px" height="30px"> Streak Stats</h1></p>
@@ -77,7 +79,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavi-3969/vaishnavi-3969?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/vaishnavi-3969/vaishnavi-3969?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
-
+ <br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi.id&left_color=green&right_color=red)
+[![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
 </div>
 <h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
 <br>
