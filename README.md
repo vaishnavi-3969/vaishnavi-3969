@@ -25,6 +25,7 @@
 - 🤔 I’m looking for help to get started with web3 fundamentals
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl
+- 📫 How to reach me **vaishnavi.kale3011@gmail.com**
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 <!--Connect with me -->
@@ -33,13 +34,18 @@
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
 <a href = "https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px" height="100px"/></a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
+<!--  <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavi_k3969" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/vaishnavi-kale-111543204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vaishnavi-kale-111543204" height="30" width="40" /></a> -->
  <br>
+<a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnaviakale" height="50" width="60" /></a>
+ </p>
  
 <p><h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</h1></p>
 <p align="center">
  <p align="center">
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
- </p>
  <br/>
  
 <p><h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="30px" height="30px"> Streak Stats</h1></p>
