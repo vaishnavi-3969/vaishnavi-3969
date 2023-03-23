@@ -5,7 +5,6 @@
 
 ## <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
 
-
 <p align='left'>
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="vaishnavi-3969" />
 </p>
