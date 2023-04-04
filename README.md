@@ -80,17 +80,19 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaishnavi-3969&left_color=green&right_color=red)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
 </div>
- 
+ <p align='center'>
+ <img src="github-user-contribution.svg">
+ <p>
 <p align ='center'>
 <h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
  </p>
 <br>
  
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<!--  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture> -->
  
  <p align = 'center'?
   <a href = "https://peerlist.io/vaishnavi" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
