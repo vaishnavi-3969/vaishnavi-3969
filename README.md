@@ -41,7 +41,7 @@
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   </p>
-  <p align='center'>
+ <p align='center'>
  <img src="https://stats.quine.sh/vaishnavi3969/languages-over-time?theme=dark" height=300px width=350px>
  <img src="https://stats.quine.sh/vaishnavi3969/topics-over-time?theme=dark" height=300px width=400px>
   </p>
@@ -54,6 +54,10 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-3969&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
+  <p align='center'>
+ <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark" height=350px width=400px>
+ <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark" height=350px width=300px>
+ <p>
 </p>
 
 ## <h1><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools<h1>
@@ -87,11 +91,7 @@
 <h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
  </p>
 <br>
- 
- <p align='center'>
- <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark"/>
- <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark"/>
- <p>
+  
 <!--  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution" />
   <source media="(prefers-color-scheme: light)" srcset="github-user-contribution" />
