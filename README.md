@@ -88,6 +88,10 @@
  </p>
 <br>
  
+ <p align='center'>
+ <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark"/>
+ <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark"/>
+ <p>
 <!--  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution" />
   <source media="(prefers-color-scheme: light)" srcset="github-user-contribution" />
