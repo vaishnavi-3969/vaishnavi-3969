@@ -33,6 +33,7 @@
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
 <!--  <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavi_k3969" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/vaishnavi-kale-111543204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vaishnavi-kale-111543204" height="30" width="40" /></a> -->
+ 
  <br>
 <a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
@@ -44,6 +45,10 @@
  <p align="center">
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  </p>
+  <p align='center'>
+ <img src="https://stats.quine.sh/vaishnavi3969/languages-over-time?theme=dark" height=350px width=400px>
+ <img src="https://stats.quine.sh/vaishnavi3969/topics-over-time?theme=dark" height=350px width=450px>
   </p>
  <br/>
  
