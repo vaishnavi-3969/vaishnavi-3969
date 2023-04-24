@@ -1,6 +1,9 @@
-## <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm [Vaishnavi](https://peerlist.io/vaishnavi)!
-
-<p align='left'>
+<div align='center'>
+<p>
+<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm <a href = "https://peerlist.io/vaishnavi">Vaishnavi</a></h1>
+</p>
+</div>
+<p align='center'>
  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-3969&theme=monokai" alt="vaishnavi-3969" />
 </p>
 
