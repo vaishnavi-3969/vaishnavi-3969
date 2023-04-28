@@ -46,6 +46,7 @@
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   </p>
+  
  <p align='center'>
  <img src="https://stats.quine.sh/vaishnavi3969/languages-over-time?theme=dark" height=300px width=350px>
  <img src="https://stats.quine.sh/vaishnavi3969/topics-over-time?theme=dark" height=300px width=400px>
