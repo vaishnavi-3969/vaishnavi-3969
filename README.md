@@ -30,10 +30,7 @@
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
- 
-<!--  <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavi_k3969" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/vaishnavi-kale-111543204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vaishnavi-kale-111543204" height="30" width="40" /></a> -->
- 
+
  <br>
 <a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
@@ -101,12 +98,6 @@
  </p>
 <br>
   
-<!--  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture> -->
-
  <p align = 'center'?
   <a href = "https://peerlist.io/vaishnavi" target="blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkMGExNzNmMTY4ZGQ0YWMwZjFmMmFjNTMwN2RkNjU5OGI0MWI4YSZjdD1z/Vf3ZKdillTMOOaOho0/giphy.gif" width="150px" height="150px"/></a>
  </p>
