@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
 - 🤔 I’m looking for help to get started with web3 fundamentals
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I am a nightowl
+- ⚡ Fun fact: I am a nightowl and Clinophile
 - 📫 How to reach me **vaishnavi.kale3011@gmail.com**
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
