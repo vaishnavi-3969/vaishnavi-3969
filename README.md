@@ -16,7 +16,7 @@
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
 
-- 🎓 I'm a currently a college junior pursuing Computer Engineering and honors in Data Science and Machine Learning  
+- 🎓 I'm a currently a college student pursuing Computer Engineering and honors in Data Science and Machine Learning  
 - 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
 - 🤔 I’m looking for help to get started with web3 fundamentals
