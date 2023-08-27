@@ -43,6 +43,7 @@
  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-3969&theme=merko"/>
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-3969&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href = 'https://quine.sh?utm_source=widgets&utm_campaign=vaishnavi3969'><img src = "https://stats.quine.sh/vaishnavi3969/dependencies?theme=dark"/></a>
  </p>
   
  <p align='center'>
@@ -87,7 +88,6 @@
  <br>
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
-
 </div>
  <p align='center'>
  <img src="https://github.com/vaishnavi-3969/vaishnavi-3969/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
