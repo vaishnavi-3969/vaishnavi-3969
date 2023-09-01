@@ -1,4 +1,13 @@
 <div align='center'>
+ 
+<p align="center">
+    <a href="https://github.com/itgoyo">
+        <img alt="github"
+            src="https://img.shields.io/github/stars/vaishnavi-3969?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+    </a>
+     <a href="https://www.youtube.com/channel/UC5Xu78KKvRR5DYHy8k9X1Hg">
+       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5Xu78KKvRR5DYHy8k9X1Hg">
+    </a>
 <p>
  <img src="https://count.getloli.com/get/@:vaishnavi-3969?theme=gelbooru" alt=":name" height="100px"/>
  
