@@ -8,8 +8,9 @@
      <a href="https://www.youtube.com/channel/UC5Xu78KKvRR5DYHy8k9X1Hg">
        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5Xu78KKvRR5DYHy8k9X1Hg">
     </a>
+  <img src="https://count.getloli.com/get/@:vaishnavi-3969?theme=gelbooru" alt=":name" height="100px"/>
 <p>
- <img src="https://count.getloli.com/get/@:vaishnavi-3969?theme=gelbooru" alt=":name" height="100px"/>
+
  
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm <a href = "https://peerlist.io/vaishnavi">Vaishnavi</a></h1>
 </p>
