@@ -1,5 +1,7 @@
 <div align='center'>
 <p>
+ <img src="https://count.getloli.com/get/@:vaishnavi-3969?theme=gelbooru" alt=":name" height="100px"/>
+ 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg4OGViZjAyOWIwZDE2Mjg3ODY4MDM5OTczMzQ1NDg4MGQzMTg4ZiZjdD1z/dB0lH3k3AE96259Exh/giphy.gif" width="100px" height="100px">, I'm <a href = "https://peerlist.io/vaishnavi">Vaishnavi</a></h1>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+tech+enthusiast%2C+explorer%2C;and+love+solving+problems+;creatively+using+gamification" alt="Typing SVG" /></a>
@@ -88,6 +90,7 @@
  <br>
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
+
 </div>
  <p align='center'>
  <img src="https://github.com/vaishnavi-3969/vaishnavi-3969/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
