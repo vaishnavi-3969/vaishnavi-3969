@@ -111,6 +111,8 @@ const vaishnavi_kale = {
 </p>
 <br>
 </details>
+
+<hr/>
 <div align="center">
 
 ![repo size](https://img.shields.io/github/repo-size/vaishnavi-3969/vaishnavi-3969?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
