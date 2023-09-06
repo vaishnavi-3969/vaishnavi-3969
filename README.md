@@ -28,6 +28,21 @@
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
 
+
+```javascript
+const vaishnavi_kale = {
+	pronouns: "she" | "her" | "hers",
+	code: [Java, Python, JavaScript, C, SQL, R],
+	framework: [React JS, Tailwind CSS],
+	devOps: [Docker],
+	tools: [Figma, Android Studio],
+ lookingtoGetStartedWith:["Web3"],
+	askMeAbout: ["Web Development", "Machine Learning","DevOps", "Data Structures"],
+	funFact: "I am a night owl and Clinophile"
+}
+```
+
+<!--
 - 🎓 I'm a currently a college student pursuing Computer Engineering and honors in Data Science and Machine Learning  
 - 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
 - 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
@@ -35,6 +50,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl and Clinophile
 - 📫 How to reach me **vaishnavi.kale3011@gmail.com**
+--!>
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 <!--Connect with me -->
