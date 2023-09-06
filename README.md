@@ -66,8 +66,7 @@ const vaishnavi_kale = {
  </p>
 
  <details>
-	 <summary>Stats</summary>
-<p><h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</h1></p>
+	 <summary><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></summary>
  <p align="center">
  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-3969&theme=merko"/>
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
@@ -81,9 +80,8 @@ const vaishnavi_kale = {
  </details>
 
  <details>
-	 <summary>Streak Stats</summary>
-<p><h1><img 
- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</h1></p>
+<summary><p><img 
+ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></summary>
 <p align="center">
   <p align="center">
     <a href="https://github.com/vaishnavi-3969/github-readme-streak-stats">
@@ -98,8 +96,8 @@ const vaishnavi_kale = {
 </details>
 
 <details>
-	<summary>Languages & Tools</summary>
-<h1><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools<h1>
+	<summary><p><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools</p>
+</summary>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,jquery,git,mysql,mongodb,firebase,java,js,r,py,tensorflow,figma,github"/>
