@@ -34,7 +34,7 @@ import universe.milky_way.solar_system.earth.asia.southasia.india.pune;
 
 public class VaishnaviKale {
     private String name = "Vaishnavi Kale";
-    private String pronouns = "she | her | hers";
+    private String pronouns = {"she, her, hers"};
     private String[] code = {"Java", "Python", "JavaScript", "C", "SQL", "R"};
     private String[] framework = {"React JS", "Tailwind CSS"};
     private String[] devOps = {"Docker"};
@@ -46,11 +46,12 @@ public class VaishnaviKale {
     public static void main(String[] args) {
         VaishnaviKale vaishnaviKale = new VaishnaviKale();
         System.out.println("👋 Hey there! I'm " + vaishnaviKale.name);
+	System.out.println("😄 Pronouns: " + String.join("|",vaishnaviKale.pronouns);
         System.out.println("🔧 I work with languages like " + String.join(", ", vaishnaviKale.code));
         System.out.println("🚀 Currently diving into " + String.join(", ", vaishnaviKale.lookingToGetStartedWith));
         System.out.println("💬 Ask me about " + String.join(", ", vaishnaviKale.askMeAbout));
         System.out.println("🌟 Fun Fact: " + vaishnaviKale.funFact);
-        System.out.println("📍 Based in " + Pune.getCity());
+        System.out.println("📍 Based in " + pune.getCity());
     }
 }
 ```
