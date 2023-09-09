@@ -30,7 +30,7 @@
 
 
 ```java
-import universe.milky_way.solar_system.earth.India.Pune;
+import universe.milky_way.solar_system.earth.asia.southasia.india.pune;
 
 public class VaishnaviKale {
     private String name = "Vaishnavi Kale";
