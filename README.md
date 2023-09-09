@@ -28,6 +28,43 @@
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc1NTAyOGU3MzE5YzZhNzVjYTlmZGQxMmY5MmU3MDg5MDhjZDliNyZjdD1z/SA0bQNKtlZOxOiKuV9/giphy.gif" width="60px" height="40px">About Me</h1>
 
 
+
+```java
+import universe.milky_way.solar_system.earth.India.Pune;
+
+public class VaishnaviKale {
+    private String name = "Vaishnavi Kale";
+    private String pronouns = "she | her | hers";
+    private String[] code = {"Java", "Python", "JavaScript", "C", "SQL", "R"};
+    private String[] framework = {"React JS", "Tailwind CSS"};
+    private String[] devOps = {"Docker"};
+    private String[] tools = {"Figma", "Android Studio"};
+    private String[] lookingToGetStartedWith = {"Web3"};
+    private String[] askMeAbout = {"Web Development", "Machine Learning", "DevOps", "Data Structures"};
+    private String funFact = "I am a night owl and Clinophile";
+
+    public static void main(String[] args) {
+        VaishnaviKale vaishnaviKale = new VaishnaviKale();
+        System.out.println("👋 Hey there! I'm " + vaishnaviKale.name);
+        System.out.println("🔧 I work with languages like " + String.join(", ", vaishnaviKale.code));
+        System.out.println("🚀 Currently diving into " + String.join(", ", vaishnaviKale.lookingToGetStartedWith));
+        System.out.println("💬 Ask me about " + String.join(", ", vaishnaviKale.askMeAbout));
+        System.out.println("🌟 Fun Fact: " + vaishnaviKale.funFact);
+        System.out.println("📍 Based in " + Pune.getCity());
+    }
+}
+```
+<!--
+- 🎓 I'm a currently a college student pursuing Computer Engineering and honors in Data Science and Machine Learning  
+- 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
+- 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
+- 🤔 I’m looking for help to get started with web3 fundamentals
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I am a nightowl and Clinophile
+- 📫 How to reach me **vaishnavi.kale3011@gmail.com**
+--!>
+
+<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 ```javascript
 const vaishnavi_kale = {
 	pronouns: "she" | "her" | "hers",
@@ -40,18 +77,6 @@ const vaishnavi_kale = {
 	funFact: "I am a night owl and Clinophile"
 }
 ```
-
-<!--
-- 🎓 I'm a currently a college student pursuing Computer Engineering and honors in Data Science and Machine Learning  
-- 🌱 I’m currently learning Application Development using Android Studio in Java,Flutter, Java Full Stack, Web Development using HTML, CSS, Javascript, Data Science in R and Python, DevOps
-- 👯 I’m looking to collaborate on Web dev and App dev using Android Studio
-- 🤔 I’m looking for help to get started with web3 fundamentals
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I am a nightowl and Clinophile
-- 📫 How to reach me **vaishnavi.kale3011@gmail.com**
---!>
-
-<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 <!--Connect with me -->
 <p align="center">
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
