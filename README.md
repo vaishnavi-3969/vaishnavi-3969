@@ -62,9 +62,6 @@ public class VaishnaviKale {
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a nightowl and Clinophile
 - 📫 How to reach me **vaishnavi.kale3011@gmail.com**
---!>
-
-<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 ```javascript
 const vaishnavi_kale = {
 	pronouns: "she" | "her" | "hers",
@@ -77,7 +74,12 @@ const vaishnavi_kale = {
 	funFact: "I am a night owl and Clinophile"
 }
 ```
+--!>
+
 <!--Connect with me -->
+
+<h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
+
 <p align="center">
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
