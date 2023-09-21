@@ -85,8 +85,9 @@ const vaishnavi_kale = {
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
-<a href = "https://discord.gg/HAJVhyaheu"><img src = "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white/></a>
+<br/>
+<a href = "https://discord.com/users/1152280568692740177"><img src = "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a href = "https://twitter.com/vaishnavi_k3969"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
 <a href = "https://youtube.com/@kale.vaishnavi"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
  <br>
