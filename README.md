@@ -85,7 +85,10 @@ const vaishnavi_kale = {
 <a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
 <a href = "mailto:vaishnavi.kale3011@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width ="80px" height="80px"/>  </a>
 <a href = "https://twitter.com/vaishnavi_k3969" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width = "90px" height = "110px"/> </a>
-
+<a href = "https://discord.gg/HAJVhyaheu"><img src = "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/vaishnavi-kale-111543204"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white/></a>
+<a href = "https://twitter.com/vaishnavi_k3969"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
+<a href = "https://youtube.com/@kale.vaishnavi"><img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
  <br>
 <a href="https://kaggle.com/vaishnaviakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnaviakale" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/vaishnavi_a_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi_a_kale" height="50" width="60" /></a>
@@ -93,8 +96,8 @@ const vaishnavi_kale = {
  <p align="left"> <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavi_k3969?logo=twitter&style=for-the-badge" alt="vaishnavi_k3969" /></a> </p>
  </p>
 
- <details>
-	 <summary><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></summary>
+ <div>
+	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
  <p align="center">
  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-3969&theme=merko"/>
  <a href="https://github.com/vaishnavi-3969/github-readme-stats"><img alt="Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-3969&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
@@ -105,15 +108,15 @@ const vaishnavi_kale = {
  <img src="https://stats.quine.sh/vaishnavi3969/languages-over-time?theme=dark" height=300px width=350px>
  <img src="https://stats.quine.sh/vaishnavi3969/topics-over-time?theme=dark" height=300px width=400px>
   </p>
- </details>
+ </div>
 
- <details>
-<summary><p><img 
- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></summary>
+ <div>
+<div><p><img 
+ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Streak Stats</p></div>
 <p align="center">
   <p align="center">
     <a href="https://github.com/vaishnavi-3969/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-3969&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+        <div title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-3969&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
   <p align='center'>
@@ -121,11 +124,11 @@ const vaishnavi_kale = {
  <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark" height=350px width=300px>
  <p>
 </p>
-</details>
+</div>
 
-<details>
-	<summary><p><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools</p>
-</summary>
+<div>
+	<div><p><img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Languages and Tools</p>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,jquery,git,mysql,mongodb,firebase,java,js,r,py,tensorflow,figma,github"/>
@@ -138,7 +141,7 @@ const vaishnavi_kale = {
   </a>
 </p>
 <br>
-</details>
+</div>
 
 <hr/>
 <div align="center">
@@ -156,7 +159,7 @@ const vaishnavi_kale = {
  <img src="https://github.com/vaishnavi-3969/vaishnavi-3969/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
  <p>
 <p align ='center'>
-<h2> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h2>
+<p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
  </p>
 <br>
   
