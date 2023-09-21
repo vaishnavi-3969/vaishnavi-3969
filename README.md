@@ -154,7 +154,7 @@ const vaishnavi_kale = {
  <br>
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvaishnavi-3969)
 [![Github](https://img.shields.io/github/followers/vaishnavi-3969?label=Follow&style=social)](https://github.com/vaishnavi-3969)
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
  <p align='center'>
  <img src="https://github.com/vaishnavi-3969/vaishnavi-3969/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
