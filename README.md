@@ -1,7 +1,7 @@
 <div align='center'>
  
 <p align="center">
-    <a href="https://github.com/itgoyo">
+    <a href="https://github.com/vaishnavi-3969">
         <img alt="github"
             src="https://img.shields.io/github/stars/vaishnavi-3969?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
