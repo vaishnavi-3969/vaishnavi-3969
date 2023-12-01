@@ -1,5 +1,5 @@
 <div align='center'>
- 
+
 <p align="center">
     <a href="https://github.com/vaishnavi-3969">
         <img alt="github"
@@ -110,7 +110,10 @@ const vaishnavi_kale = {
 
 <img src = "https://github-contributor-stats.vercel.app/api?username=vaishnavi-3969&limit=10&theme=radical&combine_all_yearly_contributions=true"/>
  </p>
-
+ 
+ <p align='center'>
+<img src="https://api.vaunt.dev/v1/github/entities/vaishnavi-3969/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+</p>
  <p align='center'>
  <img src="https://stats.quine.sh/vaishnavi3969/languages-over-time?theme=dark" height=300px width=350px>
  <img src="https://stats.quine.sh/vaishnavi3969/topics-over-time?theme=dark" height=300px width=400px>
