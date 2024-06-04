@@ -1,5 +1,4 @@
 <div align='center'>
-<img src="https://profile-counter.glitch.me/vaishnavi-3969/count.svg" width="1000"/>
 <p align="center">
     <a href="https://github.com/vaishnavi-3969">
         <img alt="github"
@@ -181,3 +180,5 @@ const vaishnavi_kale = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+<img src="https://profile-counter.glitch.me/vaishnavi-3969/count.svg" width="1000"/>
+
