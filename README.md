@@ -1,5 +1,5 @@
 <div align='center'>
-
+<img src="https://profile-counter.glitch.me/vaishnavi-3969/count.svg" width="1000"/>
 <p align="center">
     <a href="https://github.com/vaishnavi-3969">
         <img alt="github"
