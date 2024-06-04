@@ -126,11 +126,12 @@ const vaishnavi_kale = {
 <p align="center">
   <p align="center">
     <a href="https://github.com/vaishnavi-3969/github-readme-streak-stats">
-        <div title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-3969&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-3969&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+<!-- 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vaishnavi-3969&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> -->
     </a>
   </p>
   <p align='center'>
- <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark" height=350px width=400px>
+<!--  <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark" height=350px width=400px> -->
  <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark" height=350px width=300px>
  <p>
 </p>
