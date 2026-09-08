@@ -169,6 +169,9 @@ const vaishnavi_kale = {
  <img src="https://github.com/vaishnavi-3969/vaishnavi-3969/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
  <p>
 <p align ='center'>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zbzmmyu7pw3sqsz2sk36klcgn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
 <p> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></p>
  </p>
 <br>
